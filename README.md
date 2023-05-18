@@ -1,2 +1,0 @@
-# Anytext
-Generate text
